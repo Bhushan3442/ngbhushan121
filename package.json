@@ -1,0 +1,24 @@
+{
+  "name": "dummy_bhushan",
+  "version": "1.1.0",
+  "description": "dum_bhushan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhushan3442/ngbhushan121.git"
+  },
+  "keywords": [
+    "dumm",
+    "dummy_bhushan",
+    "bhushan"
+  ],
+  "author": "Bhushan Patil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bhushan3442/ngbhushan121/issues"
+  },
+  "homepage": "https://github.com/Bhushan3442/ngbhushan121#readme"
+}
